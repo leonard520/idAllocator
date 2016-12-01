@@ -6,7 +6,7 @@ PathIdGenerator.removeId(src1, dst1, 2)
 
 e.g. 
 1. allocate 100 ids
-then will return 1 ~ 100
+so then will return 1 ~ 100
 2. free the id from 31 to 70
 id 31 ~ 70 will be available in pool
 3. free the id 80
